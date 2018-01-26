@@ -1,4 +1,10 @@
 /*
+  Mustafa Abdel Fattah
+  Character #1 - Animation
+  Default State - Happy
+*/
+
+/*
   Code Development Team
   DIGF 2005 - Atelier II
   Professor Nick Puckett
